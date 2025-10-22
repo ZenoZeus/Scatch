@@ -1,6 +1,7 @@
 # Scatch
 A modern shopping site for trending items.
-![Preview](.Screenshot 2025-10-22 091440.png)
-![Preview](.Screenshot 2025-10-22 094108.png)
-![Preview](.Screenshot 2025-10-22 094123.png)
-![Preview](.Screenshot 2025-10-22 094148.png)
+![Preview 1](Screenshot_2025-10-22_091440.png)
+![Preview 2](Screenshot_2025-10-22_094108.png)
+![Preview 3](Screenshot_2025-10-22_094123.png)
+![Preview 4](Screenshot_2025-10-22_094148.png)
+
