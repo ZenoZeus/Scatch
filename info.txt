@@ -1,0 +1,10 @@
+This is a ejs based backend full stack project. A standard project structure.
+models have structure of models for db
+we will use config file for connection purpose
+Routes
+/-> login ,signup
+/shop -> shopping
+/user/cart ->cart
+/admin
+/owner/product -> all listed product
+/owner/admin -> show admin to create product
